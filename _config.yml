@@ -1,0 +1,28 @@
+# Site settings
+title: CCDroid
+email: ccdroid@developfreedom.org
+url: https://ccdroid.github.io
+description: "CCDroid helps you monitor your build using your smartphone"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: CCDroid
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url:
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/ccdroid
+  - title: github
+    url: https://github.com/CCDroid/CCDroid
+
+# Build settings
+markdown: kramdown
+permalink: pretty
